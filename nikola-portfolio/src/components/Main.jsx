@@ -11,7 +11,7 @@ const Main = () => {
     return (
         <div id="main">
             <img
-                className="w-full h-screen object-cover object-left"
+                className="w-full h-screen object-cover"
                 src="./public/profilepic.jpg"
                 alt=""
             />
