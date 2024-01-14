@@ -1,9 +1,10 @@
 Nikola's Portfolio
-Portfolio website built in React
+
+1.Portfolio website built in React
 
 This is a website built to showcase my technical skills, web design skills.
 
-Technologies used:
+2.Technologies used:
 HTML5
 CSS3
 JavaScript (ES6)
